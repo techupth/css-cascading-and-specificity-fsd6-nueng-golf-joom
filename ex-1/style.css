@@ -1,5 +1,3 @@
-
-/* Start coding here  */
 .ex-btn {
   padding: 4px 15px;
   border-radius: 5px;
@@ -20,14 +18,5 @@
   border: 2px solid darkgreen;
 }
 
-.ex-btn-success {
-  padding: 4px 15px;
-  border-radius: 5px;
-  font-size: 18px;
-  cursor: pointer;
-  color: white;
-  background-color: seagreen;
-  border: 2px solid green;
-}
 
 
