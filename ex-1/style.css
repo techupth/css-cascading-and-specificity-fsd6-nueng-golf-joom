@@ -3,7 +3,7 @@
 .ex-btn {
   padding: 4px 15px;
   border-radius: 5px;
-  font-size: 17px;
+  font-size: 18px;
   cursor: pointer;
   color: black;
   background-color: #eee;
@@ -13,7 +13,7 @@
 .ex-btn-warning {
   padding: 4px 15px;
   border-radius: 5px;
-  font-size: 17px;
+  font-size: 18px;
   cursor: pointer;
   color: white;
   background-color: crimson;
@@ -23,7 +23,7 @@
 .ex-btn-success {
   padding: 4px 15px;
   border-radius: 5px;
-  font-size: 17px;
+  font-size: 18px;
   cursor: pointer;
   color: white;
   background-color: seagreen;
